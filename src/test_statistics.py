@@ -9,4 +9,7 @@ class TestStatistics(TestCase):
         self.assertEqual(Statistics.gen_statistics(""), 0, "Empty String")
 
     def test_gen_statistics_1_1(self):
-        self.assertEqual(Statistics.gen_statistics("1"), 1, "Empty String")
+        self.assertEqual(Statistics.gen_statistics("1"), 1, "String 1")
+
+    def test_gen_statistics_1_2(self):
+        self.assertEqual(Statistics.gen_statistics("1,2"), 2, "String 2")
