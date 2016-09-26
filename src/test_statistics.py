@@ -70,3 +70,7 @@ class TestStatistics(TestCase):
         array = [1, 1, 1, 1]
         self.assertEqual(Statistics.gen_statistics("1"), array, "String 1")
 
+    def test_gen_statistics_3_3(self):
+        array = [2, 1, 2]
+        self.assertEqual(Statistics.gen_statistics("1,2"), array, "String 2")
+
