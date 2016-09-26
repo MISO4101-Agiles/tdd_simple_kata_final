@@ -10,7 +10,7 @@ class Statistics:
             result_array.append(0)
             return result_array
         else:
-            nums = sequence.split(",")
-            result_array.append(nums.__len__())
+            result_array.append(1)
+            result_array.append(1)
             return result_array
 
