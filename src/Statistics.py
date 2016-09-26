@@ -19,5 +19,9 @@ class Statistics:
                 result_array.append(int(min_number))
                 result_array.append(int(max_number))
                 return result_array
-
+            else:
+                result_array.append(2)
+                result_array.append(int(min_number))
+                result_array.append(int(max_number))
+                return result_array
 
