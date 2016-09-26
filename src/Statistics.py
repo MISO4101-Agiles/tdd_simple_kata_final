@@ -8,16 +8,7 @@ class Statistics:
         if not sequence:
             result_array.append(0)
             result_array.append(0)
+            result_array.append(0)
             return result_array
-        else:
-            nums = sequence.split(",")
-            min_number = min(i for i in nums if int(i) >= 0)
-            if nums.__len__() == 1:
-                result_array.append(1)
-                result_array.append(int(min_number))
-                return result_array
-            else:
-                result_array.append(nums.__len__())
-                result_array.append(int(min_number))
-                return result_array
+
 
