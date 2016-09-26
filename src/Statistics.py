@@ -7,4 +7,8 @@ class Statistics:
         if not sequence:
             return 0
         else:
-            return 1
+            nums = sequence.split(",")
+            if nums.__len__() == 1:
+                return 1
+            else:
+                return 2
