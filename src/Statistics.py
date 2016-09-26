@@ -24,5 +24,11 @@ class Statistics:
                 result_array.append(max_number)
                 result_array.append(mean(nums_int))
                 return result_array
+            else:
+                result_array.append(2)
+                result_array.append(min_number)
+                result_array.append(max_number)
+                result_array.append(mean(nums_int))
+                return result_array
 
 
