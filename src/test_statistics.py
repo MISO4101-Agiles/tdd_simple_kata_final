@@ -31,4 +31,8 @@ class TestStatistics(TestCase):
 
     def test_gen_statistics_2_1(self):
         array = [1, 1]
-        self.assertEqual(Statistics.gen_statistics("1"), array, "Empty String")
+        self.assertEqual(Statistics.gen_statistics("1"), array, "String 1")
+
+    def test_gen_statistics_2_2(self):
+        array = [2, 1]
+        self.assertEqual(Statistics.gen_statistics("1,2"), array, "String 2")
