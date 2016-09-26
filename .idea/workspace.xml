@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebe05187-8a25-4edb-ae8a-06109bb38c6f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Statistics.py" afterPath="$PROJECT_DIR$/src/Statistics.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test_statistics.py" afterPath="$PROJECT_DIR$/src/test_statistics.py" />
     </list>
     <ignored path="tdd_simple_kata_final.iws" />
@@ -25,7 +26,7 @@
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_2.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_2 Coverage Results" MODIFIED="1474851114267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_0.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_0 Coverage Results" MODIFIED="1474852445983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics (1) Coverage Results" MODIFIED="1474848272260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_1__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_1 (1) Coverage Results" MODIFIED="1474853222552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_1__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_1 (1) Coverage Results" MODIFIED="1474853533889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_2__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_2 (1) Coverage Results" MODIFIED="1474852089602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_0__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_0 (1) Coverage Results" MODIFIED="1474850752144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittests_in_TestStatistics.coverage" NAME="Unittests in TestStatistics Coverage Results" MODIFIED="1474852945683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -33,7 +34,7 @@
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_2__3_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_2 (3) Coverage Results" MODIFIED="1474852482613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_0__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_0 (1) Coverage Results" MODIFIED="1474851060614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_2__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_2 (1) Coverage Results" MODIFIED="1474848959187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_3.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_3 Coverage Results" MODIFIED="1474852623700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_2_3.coverage" NAME="Unittest TestStatistics.test_gen_statistics_2_3 Coverage Results" MODIFIED="1474853402775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_1__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_1 (1) Coverage Results" MODIFIED="1474848676328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Statistics.coverage" NAME="Statistics Coverage Results" MODIFIED="1474850689709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_0.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_0 Coverage Results" MODIFIED="1474850984039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -50,21 +51,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Statistics.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Statistics.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Statistics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_statistics.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_statistics.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test_statistics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="385">
-              <caret line="55" column="77" selection-start-line="55" selection-start-column="77" selection-end-line="55" selection-end-column="77" />
+              <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -89,8 +90,8 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Test.py" />
-        <option value="$PROJECT_DIR$/src/Statistics.py" />
         <option value="$PROJECT_DIR$/src/test_statistics.py" />
+        <option value="$PROJECT_DIR$/src/Statistics.py" />
       </list>
     </option>
   </component>
@@ -509,10 +510,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_2_1 (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in TestStatistics" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_3_0" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_2_2" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_2_3" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_2_3" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in TestStatistics" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_3_0" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_2_2" />
       </list>
     </recent_temporary>
   </component>
@@ -530,22 +531,22 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_1 - 2016.09.25 at 20h 15m 39s.xml">
-      <configuration name="Unittest TestStatistics.test_gen_statistics_2_1" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_1_(1) - 2016.09.25 at 20h 24m 20s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_2_1 (1)" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_1_(1) - 2016.09.25 at 20h 27m 02s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_2_1 (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_2 - 2016.09.25 at 20h 15m 09s.xml">
-      <configuration name="Unittest TestStatistics.test_gen_statistics_2_2" configurationId="tests" />
+    <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_1_(1) - 2016.09.25 at 20h 29m 59s.xml">
+      <configuration name="Unittest TestStatistics.test_gen_statistics_2_1 (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_1_(1) - 2016.09.25 at 20h 32m 14s.xml">
+      <configuration name="Unittest TestStatistics.test_gen_statistics_2_1 (1)" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_2 - 2016.09.25 at 20h 18m 32s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_2_2" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_3 - 2016.09.25 at 20h 17m 03s.xml">
+    <history-entry file="Unittest_TestStatistics_test_gen_statistics_2_3 - 2016.09.25 at 20h 30m 02s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_2_3" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_3_0 - 2016.09.25 at 20h 21m 08s.xml">
@@ -636,21 +637,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Statistics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test_statistics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
-          <caret line="55" column="77" selection-start-line="55" selection-start-column="77" selection-end-line="55" selection-end-column="77" />
+          <caret line="59" column="23" selection-start-line="59" selection-start-column="23" selection-end-line="59" selection-end-column="23" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
