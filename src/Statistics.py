@@ -4,11 +4,12 @@ __author__ = 'Luis_Sebastian_Talero'
 class Statistics:
     @staticmethod
     def gen_statistics(sequence):
+        result_array = [0]
         if not sequence:
-            return 0
+            result_array[0] = 0
+            return result_array
         else:
             nums = sequence.split(",")
-            if nums.__len__() == 1:
-                return 1
-            else:
-                return 2
+            result_array[0] = nums.__len__()
+            return result_array
+
