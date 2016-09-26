@@ -13,18 +13,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_2.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_2 Coverage Results" MODIFIED="1474848754901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics (1) Coverage Results" MODIFIED="1474848272260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_1.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_1 Coverage Results" MODIFIED="1474848447032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics.coverage" NAME="Unittest TestStatistics.test_gen_statistics Coverage Results" MODIFIED="1474848861470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_3__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_3 (1) Coverage Results" MODIFIED="1474849712918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_1__2_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_1 (2) Coverage Results" MODIFIED="1474848796550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_0.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_0 Coverage Results" MODIFIED="1474849697656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_3.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_3 Coverage Results" MODIFIED="1474849054820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_0__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_0 (1) Coverage Results" MODIFIED="1474849676637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_2__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_2 (1) Coverage Results" MODIFIED="1474848959187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_1__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_1 (1) Coverage Results" MODIFIED="1474848676328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_3__2_.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_3 (2) Coverage Results" MODIFIED="1474849731857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_2.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_2 Coverage Results" MODIFIED="1474848754901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics__1_.coverage" NAME="Unittest TestStatistics.test_gen_statistics (1) Coverage Results" MODIFIED="1474848272260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_0.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_0 Coverage Results" MODIFIED="1474849697656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittest_TestStatistics_test_gen_statistics_1_3.coverage" NAME="Unittest TestStatistics.test_gen_statistics_1_3 Coverage Results" MODIFIED="1474849054820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/tdd_simple_kata_final$Unittests_in_TestStatistics.coverage" NAME="Unittests in TestStatistics Coverage Results" MODIFIED="1474849867784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -35,7 +36,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Statistics.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Statistics.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Statistics.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
@@ -45,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_statistics.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_statistics.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test_statistics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
+            <state relative-caret-position="295">
               <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -156,30 +157,7 @@
     <property name="FullScreen" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (2)">
-    <configuration default="false" name="Unittest TestStatistics.test_gen_statistics_1_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tdd_simple_kata_final" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_statistics.py" />
-      <option name="CLASS_NAME" value="TestStatistics" />
-      <option name="METHOD_NAME" value="test_gen_statistics_1_3" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in TestStatistics">
     <configuration default="false" name="Unittest TestStatistics.test_gen_statistics_1_0" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,6 +243,29 @@
       <option name="METHOD_NAME" value="test_gen_statistics_1_3" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in TestStatistics" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tdd_simple_kata_final" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_statistics.py" />
+      <option name="CLASS_NAME" value="TestStatistics" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -475,19 +476,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0 (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (2)" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0 (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in TestStatistics" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (2)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in TestStatistics" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_3 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestStatistics.test_gen_statistics_1_0 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -520,9 +521,6 @@
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_1_1_(2) - 2016.09.25 at 19h 13m 16s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_1_1 (2)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_TestStatistics_test_gen_statistics_1_2 - 2016.09.25 at 19h 12m 35s.xml">
-      <configuration name="Unittest TestStatistics.test_gen_statistics_1_2" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_1_2_(1) - 2016.09.25 at 19h 15m 59s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_1_2 (1)" configurationId="tests" />
     </history-entry>
@@ -534,6 +532,9 @@
     </history-entry>
     <history-entry file="Unittest_TestStatistics_test_gen_statistics_1_3_(2) - 2016.09.25 at 19h 28m 52s.xml">
       <configuration name="Unittest TestStatistics.test_gen_statistics_1_3 (2)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_TestStatistics - 2016.09.25 at 19h 31m 08s.xml">
+      <configuration name="Unittests in TestStatistics" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -584,21 +585,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test_statistics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Statistics.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test_statistics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
